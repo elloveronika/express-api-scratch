@@ -1,0 +1,20 @@
+{
+  "name": "express-api-scratch",
+  "version": "0.1.0",
+  "description": "This is an express server from scratch y'all",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "express",
+    "yoMamma"
+  ],
+  "author": "James Crosslin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
